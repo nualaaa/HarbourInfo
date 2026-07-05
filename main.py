@@ -8,7 +8,9 @@ import os
 
 # Set up the API connection for openweathermap.
 
-APIKey = os.getenv("APIKEY")
+from config import APIKEY
+
+APIKey = APIKEY
 endpoint = "https://api.openweathermap.org/data/2.5/weather"
 
 # Define the function to get the required data from the API.
