@@ -3,3 +3,8 @@
 
 # HarbourInfo
 A small Python program that outputs useful data for deciding where to launch a boat.
+
+
+# Context
+This is some basic code. It pulls information from an external source and outputs it. 
+There is no front end to accompany this. This is not an application that is usable without basic confidence navigating a development environment.
