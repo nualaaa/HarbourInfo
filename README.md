@@ -8,13 +8,17 @@ A small Python program that outputs useful data for deciding where to launch a b
 This is some very basic code and not an attempt to design a full application. 
 
 
+
 # Nuala I don’t know tech stuff, can you talk me through it
 
 Yes.
 
 ## Python3
 
-This is the coding language. You can download an IDE to write and run code. I like Pycharm. 
+This is the coding language. 
+
+You can download an IDE to write and run code. I like Pycharm. 
+
 There are lots of different coding languages. Python3 is a “high level” one, which means there is a lot of work going on behind the scenes you do not need to do, and that allows you to focus on what you are actually trying to get on with. 
 
 ## API aka Application Programming Interface
