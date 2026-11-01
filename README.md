@@ -23,7 +23,7 @@ There are lots of different coding languages. Python3 is a “high level” one,
 
 ## API aka Application Programming Interface
 
-The API in this case is openweathermap. Openweathermap is where all of the real time weather data is coming from. The program I have written interacts with openweathermap, by requesting a receiving data, doing some basic analysis of it, and then outputting that analysis.
+The API is external to the program and in this case is openweathermap. Openweathermap is where all of the real time weather data is coming from. The program I have written interacts with openweathermap, by requesting and receiving data, doing some basic analysis of it, and then outputting that analysis.
 
 ## The different files
 
@@ -49,6 +49,16 @@ Gitignore is a list of files that do exist, but have not been uploaded here. In 
 6. How stores the comparison between location1 and location2.
 
 7. It outputs it all into a file.
+
+# I want to give it a go running it
+
+You need to do the following:
+
+1. Install Python3 and an IDE.
+2. Get yourself an openweather map account so you can get your key.
+3. Download this project from github and open it in your IDE.
+4. Sort your config file out.
+5. Have a play. You can start by using the recommended coordinates at the end of the main file.
 
 # Ok great so are you planning on expanding this into something normal people can actually use
 Probably not, no :-)
