@@ -8,7 +8,7 @@ A small Python program that outputs useful data for deciding where to launch a b
 This is some very basic code and not an attempt to design a full application. 
 
 
-# Nuala I don’t know any tech stuff, can you talk me through it
+# Nuala I don’t know tech stuff, can you talk me through it
 
 Yes.
 
