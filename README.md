@@ -31,7 +31,7 @@ The API is external to the program and in this case is openweathermap. Openweath
 
 You are currently reading the README, and the license explains what people can or cannot do with what I have published here. Main is the main file with the code in. 
 
-Requirements tells you/your computer what extra things you need to download. Remember I was just talking about Python3? Python3 comes with different packages (aka libraries) that do different things behind the scenes, so you do not need to manually write it all out. So those libraries need to go in the requirements file.
+Requirements tells you/your computer what extra things you need to download. Remember I was just talking about Python3? Python3 comes with different 'libraries' of code that do different things behind the scenes, so you do not need to manually write it all out. The libraries the program uses need to go in the requirements file.
 
 Gitignore is a list of files that do exist, but have not been uploaded here. In there, you will see a reference to a config file. This file contains the API key, which is like a password that is used to access the API – openweathermap. I do not want to share my password, which is why the config file is in gitignore. If you were running this yourself, you would go and get your own password and make your own config file, which is really simple to do.
 
